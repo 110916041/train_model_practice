@@ -15,7 +15,7 @@
 
 ![image](https://github.com/110916041/train_model_practice/blob/9212ef4babbae7a3d98d1fe891872fb783635c4c/image/HW1.png)
 
-![image](phttps://github.com/110916041/train_model_practice/blob/9212ef4babbae7a3d98d1fe891872fb783635c4c/image/HW2.png)
+![image](https://github.com/110916041/train_model_practice/blob/9212ef4babbae7a3d98d1fe891872fb783635c4c/image/HW2.png)
 
 ![image](https://github.com/110916041/train_model_practice/blob/9212ef4babbae7a3d98d1fe891872fb783635c4c/image/HW3.png)
 
